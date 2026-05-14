@@ -1,0 +1,1696 @@
+
+
+MLCGetCANHWList PASSED : 1 Device(s) FoundMLC[1] : MLC Version : 3
+MLC[1] : MLC Serial Number : 63
+
+MLCGetDLLVersion : DLL Version 1.0.1.11 
+
+MLC[1] : MLC_PS : Voltage set to 12.000000 volts
+
+MLC[1] : MLC_PS : VBAT Line UB1 disconnected
+
+MLC[1] : MLC_PS : VBAT Line UB2 disconnected
+
+MLC[1] : MLC_PS : VBAT Line UB3 disconnected
+
+MLC[1] : MLC_PS : VBAT Line UDISP disconnected
+
+MLC[1] : MLC_PS : VBAT Line UB1 disconnected
+
+MLC[1] : MLC_PS : VBAT Line UB2 disconnected
+
+MLC[1] : MLC_PS : VBAT Line UB3 disconnected
+
+MLC[1] : MLC_PS : VBAT Line UDISP disconnected
+
+MLC[1] : MLC_SW : COM Pin Connected to PinGnd 
+
+MLC[1] : MLC_PS : VBAT Line UB1 disconnected
+
+MLC[1] : MLC_PS : VBAT Line UB2 disconnected
+
+MLC[1] : MLC_PS : VBAT Line UB3 disconnected
+
+MLC[1] : MLC_PS : VBAT Line UDISP disconnected
+
+MLC[1] : MLC_PS : VBAT Line UB1 disconnected
+
+MLC[1] : MLC_PS : VBAT Line UB2 disconnected
+
+MLC[1] : MLC_PS : VBAT Line UB3 disconnected
+
+MLC[1] : MLC_PS : VBAT Line UDISP disconnected
+
+MLC[1] : MLC_PS : Voltage set to 0.000000 volts
+
+MLC[1] : MLC_PS : Voltage set to 12.000000 volts
+
+MLC[1] : MLC_PS : VBAT Line UB1 connected
+
+MLC[1] : MLC_PS : VBAT Line UB2 connected
+
+MLC[1] : MLC_PS : VBAT Line UB3 connected
+
+MLC[1] : MLC_PS : VBAT Line UDISP connected
+
+MLC[1] : MLC_PS : VBAT Line UB1 connected
+
+MLC[1] : MLC_PS : VBAT Line UB2 connected
+
+MLC[1] : MLC_PS : VBAT Line UB3 connected
+
+MLC[1] : MLC_PS : VBAT Line UDISP connected
+
+MLC[1] : MLC_PS : VBAT Line UB1 connected
+
+MLC[1] : MLC_PS : VBAT Line UB2 connected
+
+MLC[1] : MLC_PS : VBAT Line UB3 connected
+
+MLC[1] : MLC_PS : VBAT Line UDISP connected
+
+MLC[1] : MLC_PS : VBAT Line UB1 connected
+
+MLC[1] : MLC_PS : VBAT Line UB2 connected
+
+MLC[1] : MLC_PS : VBAT Line UB3 connected
+
+MLC[1] : MLC_PS : VBAT Line UDISP connected
+
+MLC[1] : MLC_PS : VBAT Line UB1 disconnected
+
+MLC[1] : MLC_PS : VBAT Line UB2 disconnected
+
+MLC[1] : MLC_PS : VBAT Line UB3 disconnected
+
+MLC[1] : MLC_PS : VBAT Line UDISP disconnected
+
+MLC[1] : MLC_PS : VBAT Line UB1 disconnected
+
+MLC[1] : MLC_PS : VBAT Line UB2 disconnected
+
+MLC[1] : MLC_PS : VBAT Line UB3 disconnected
+
+MLC[1] : MLC_PS : VBAT Line UDISP disconnected
+
+MLC[1] : MLC_PS : Voltage set to 0.000000 volts
+
+MLC[1] : MLC_PS : Voltage set to 12.000000 volts
+
+MLC[1] : MLC_PS : VBAT Line UB1 connected
+
+MLC[1] : MLC_PS : VBAT Line UB2 connected
+
+MLC[1] : MLC_PS : VBAT Line UB3 connected
+
+MLC[1] : MLC_PS : VBAT Line UDISP connected
+
+MLC[1] : MLC_PS : VBAT Line UB1 connected
+
+MLC[1] : MLC_PS : VBAT Line UB2 connected
+
+MLC[1] : MLC_PS : VBAT Line UB3 connected
+
+MLC[1] : MLC_PS : VBAT Line UDISP connected
+
+MLC[1] : MLC_PS : VBAT Line UB1 disconnected
+
+MLC[1] : MLC_PS : VBAT Line UB2 disconnected
+
+MLC[1] : MLC_PS : VBAT Line UB3 disconnected
+
+MLC[1] : MLC_PS : VBAT Line UDISP disconnected
+
+MLC[1] : MLC_PS : VBAT Line UB1 disconnected
+
+MLC[1] : MLC_PS : VBAT Line UB2 disconnected
+
+MLC[1] : MLC_PS : VBAT Line UB3 disconnected
+
+MLC[1] : MLC_PS : VBAT Line UDISP disconnected
+
+MLC[1] : MLC_PS : VBAT Line UB1 connected
+
+MLC[1] : MLC_PS : VBAT Line UB2 connected
+
+MLC[1] : MLC_PS : VBAT Line UB3 connected
+
+MLC[1] : MLC_PS : VBAT Line UDISP connected
+
+MLC[1] : MLC_PS : VBAT Line UB1 connected
+
+MLC[1] : MLC_PS : VBAT Line UB2 connected
+
+MLC[1] : MLC_PS : VBAT Line UB3 connected
+
+MLC[1] : MLC_PS : VBAT Line UDISP connected
+
+MLC[1] : MLC_PS : VBAT Line UB1 disconnected
+
+MLC[1] : MLC_PS : VBAT Line UB2 disconnected
+
+MLC[1] : MLC_PS : VBAT Line UB3 disconnected
+
+MLC[1] : MLC_PS : VBAT Line UDISP disconnected
+
+MLC[1] : MLC_PS : VBAT Line UB1 disconnected
+
+MLC[1] : MLC_PS : VBAT Line UB2 disconnected
+
+MLC[1] : MLC_PS : VBAT Line UB3 disconnected
+
+MLC[1] : MLC_PS : VBAT Line UDISP disconnected
+
+MLC[1] : MLC_PS : VBAT Line UB1 connected
+
+MLC[1] : MLC_PS : VBAT Line UB2 connected
+
+MLC[1] : MLC_PS : VBAT Line UB3 connected
+
+MLC[1] : MLC_PS : VBAT Line UDISP connected
+
+MLC[1] : MLC_PS : VBAT Line UB1 connected
+
+MLC[1] : MLC_PS : VBAT Line UB2 connected
+
+MLC[1] : MLC_PS : VBAT Line UB3 connected
+
+MLC[1] : MLC_PS : VBAT Line UDISP connected
+
+MLC[1] : MLC_PS : VBAT Line UB1 disconnected
+
+MLC[1] : MLC_PS : VBAT Line UB2 disconnected
+
+MLC[1] : MLC_PS : VBAT Line UB3 disconnected
+
+MLC[1] : MLC_PS : VBAT Line UDISP disconnected
+
+MLC[1] : MLC_PS : VBAT Line UB1 disconnected
+
+MLC[1] : MLC_PS : VBAT Line UB2 disconnected
+
+MLC[1] : MLC_PS : VBAT Line UB3 disconnected
+
+MLC[1] : MLC_PS : VBAT Line UDISP disconnected
+
+MLC[1] : MLC_PS : Voltage set to 0.000000 volts
+
+MLC[1] : MLC_PS : Voltage set to 12.000000 volts
+
+MLC[1] : MLC_PS : VBAT Line UB1 connected
+
+MLC[1] : MLC_PS : VBAT Line UB2 connected
+
+MLC[1] : MLC_PS : VBAT Line UB3 connected
+
+MLC[1] : MLC_PS : VBAT Line UDISP connected
+
+MLC[1] : MLC_PS : VBAT Line UB1 connected
+
+MLC[1] : MLC_PS : VBAT Line UB2 connected
+
+MLC[1] : MLC_PS : VBAT Line UB3 connected
+
+MLC[1] : MLC_PS : VBAT Line UDISP connected
+
+MLC[1] : MLC_PS : VBAT Line UB1 disconnected
+
+MLC[1] : MLC_PS : VBAT Line UB2 disconnected
+
+MLC[1] : MLC_PS : VBAT Line UB3 disconnected
+
+MLC[1] : MLC_PS : VBAT Line UDISP disconnected
+
+MLC[1] : MLC_PS : VBAT Line UB1 disconnected
+
+MLC[1] : MLC_PS : VBAT Line UB2 disconnected
+
+MLC[1] : MLC_PS : VBAT Line UB3 disconnected
+
+MLC[1] : MLC_PS : VBAT Line UDISP disconnected
+
+MLC[1] : MLC_PS : VBAT Line UB1 connected
+
+MLC[1] : MLC_PS : VBAT Line UB2 connected
+
+MLC[1] : MLC_PS : VBAT Line UB3 connected
+
+MLC[1] : MLC_PS : VBAT Line UDISP connected
+
+MLC[1] : MLC_PS : VBAT Line UB1 connected
+
+MLC[1] : MLC_PS : VBAT Line UB2 connected
+
+MLC[1] : MLC_PS : VBAT Line UB3 connected
+
+MLC[1] : MLC_PS : VBAT Line UDISP connected
+
+MLC[1] : MLC_PS : VBAT Line UB1 disconnected
+
+MLC[1] : MLC_PS : VBAT Line UB2 disconnected
+
+MLC[1] : MLC_PS : VBAT Line UB3 disconnected
+
+MLC[1] : MLC_PS : VBAT Line UDISP disconnected
+
+MLC[1] : MLC_PS : VBAT Line UB1 disconnected
+
+MLC[1] : MLC_PS : VBAT Line UB2 disconnected
+
+MLC[1] : MLC_PS : VBAT Line UB3 disconnected
+
+MLC[1] : MLC_PS : VBAT Line UDISP disconnected
+
+MLC[1] : MLC_PS : VBAT Line UB1 connected
+
+MLC[1] : MLC_PS : VBAT Line UB2 connected
+
+MLC[1] : MLC_PS : VBAT Line UB3 connected
+
+MLC[1] : MLC_PS : VBAT Line UDISP connected
+
+MLC[1] : MLC_PS : VBAT Line UB1 connected
+
+MLC[1] : MLC_PS : VBAT Line UB2 connected
+
+MLC[1] : MLC_PS : VBAT Line UB3 connected
+
+MLC[1] : MLC_PS : VBAT Line UDISP connected
+
+MLC[1] : MLC_PS : VBAT Line UB1 disconnected
+
+MLC[1] : MLC_PS : VBAT Line UB2 disconnected
+
+MLC[1] : MLC_PS : VBAT Line UB3 disconnected
+
+MLC[1] : MLC_PS : VBAT Line UDISP disconnected
+
+MLC[1] : MLC_PS : VBAT Line UB1 disconnected
+
+MLC[1] : MLC_PS : VBAT Line UB2 disconnected
+
+MLC[1] : MLC_PS : VBAT Line UB3 disconnected
+
+MLC[1] : MLC_PS : VBAT Line UDISP disconnected
+
+MLC[1] : MLC_PS : Voltage set to 0.000000 volts
+
+MLC[1] : MLC_PS : Voltage set to 12.000000 volts
+
+MLC[1] : MLC_PS : VBAT Line UB1 connected
+
+MLC[1] : MLC_PS : VBAT Line UB2 connected
+
+MLC[1] : MLC_PS : VBAT Line UB3 connected
+
+MLC[1] : MLC_PS : VBAT Line UDISP connected
+
+MLC[1] : MLC_PS : VBAT Line UB1 connected
+
+MLC[1] : MLC_PS : VBAT Line UB2 connected
+
+MLC[1] : MLC_PS : VBAT Line UB3 connected
+
+MLC[1] : MLC_PS : VBAT Line UDISP connected
+
+MLC[1] : MLC_PS : VBAT Line UB1 disconnected
+
+MLC[1] : MLC_PS : VBAT Line UB2 disconnected
+
+MLC[1] : MLC_PS : VBAT Line UB3 disconnected
+
+MLC[1] : MLC_PS : VBAT Line UDISP disconnected
+
+MLC[1] : MLC_PS : VBAT Line UB1 disconnected
+
+MLC[1] : MLC_PS : VBAT Line UB2 disconnected
+
+MLC[1] : MLC_PS : VBAT Line UB3 disconnected
+
+MLC[1] : MLC_PS : VBAT Line UDISP disconnected
+
+MLC[1] : MLC_PS : VBAT Line UB1 connected
+
+MLC[1] : MLC_PS : VBAT Line UB2 connected
+
+MLC[1] : MLC_PS : VBAT Line UB3 connected
+
+MLC[1] : MLC_PS : VBAT Line UDISP connected
+
+MLC[1] : MLC_PS : VBAT Line UB1 connected
+
+MLC[1] : MLC_PS : VBAT Line UB2 connected
+
+MLC[1] : MLC_PS : VBAT Line UB3 connected
+
+MLC[1] : MLC_PS : VBAT Line UDISP connected
+
+MLC[1] : MLC_PS : VBAT Line UB1 disconnected
+
+MLC[1] : MLC_PS : VBAT Line UB2 disconnected
+
+MLC[1] : MLC_PS : VBAT Line UB3 disconnected
+
+MLC[1] : MLC_PS : VBAT Line UDISP disconnected
+
+MLC[1] : MLC_PS : VBAT Line UB1 disconnected
+
+MLC[1] : MLC_PS : VBAT Line UB2 disconnected
+
+MLC[1] : MLC_PS : VBAT Line UB3 disconnected
+
+MLC[1] : MLC_PS : VBAT Line UDISP disconnected
+
+MLC[1] : MLC_PS : VBAT Line UB1 connected
+
+MLC[1] : MLC_PS : VBAT Line UB2 connected
+
+MLC[1] : MLC_PS : VBAT Line UB3 connected
+
+MLC[1] : MLC_PS : VBAT Line UDISP connected
+
+MLC[1] : MLC_PS : VBAT Line UB1 connected
+
+MLC[1] : MLC_PS : VBAT Line UB2 connected
+
+MLC[1] : MLC_PS : VBAT Line UB3 connected
+
+MLC[1] : MLC_PS : VBAT Line UDISP connected
+
+MLC[1] : MLC_PS : VBAT Line UB1 disconnected
+
+MLC[1] : MLC_PS : VBAT Line UB2 disconnected
+
+MLC[1] : MLC_PS : VBAT Line UB3 disconnected
+
+MLC[1] : MLC_PS : VBAT Line UDISP disconnected
+
+MLC[1] : MLC_PS : VBAT Line UB1 disconnected
+
+MLC[1] : MLC_PS : VBAT Line UB2 disconnected
+
+MLC[1] : MLC_PS : VBAT Line UB3 disconnected
+
+MLC[1] : MLC_PS : VBAT Line UDISP disconnected
+
+MLC[1] : MLC_PS : Voltage set to 0.000000 volts
+
+MLC[1] : MLC_PS : Voltage set to 12.000000 volts
+
+MLC[1] : MLC_PS : VBAT Line UB1 connected
+
+MLC[1] : MLC_PS : VBAT Line UB2 connected
+
+MLC[1] : MLC_PS : VBAT Line UB3 connected
+
+MLC[1] : MLC_PS : VBAT Line UDISP connected
+
+MLC[1] : MLC_PS : VBAT Line UB1 connected
+
+MLC[1] : MLC_PS : VBAT Line UB2 connected
+
+MLC[1] : MLC_PS : VBAT Line UB3 connected
+
+MLC[1] : MLC_PS : VBAT Line UDISP connected
+
+MLC[1] : MLC_PS : VBAT Line UB1 disconnected
+
+MLC[1] : MLC_PS : VBAT Line UB2 disconnected
+
+MLC[1] : MLC_PS : VBAT Line UB3 disconnected
+
+MLC[1] : MLC_PS : VBAT Line UDISP disconnected
+
+MLC[1] : MLC_PS : VBAT Line UB1 disconnected
+
+MLC[1] : MLC_PS : VBAT Line UB2 disconnected
+
+MLC[1] : MLC_PS : VBAT Line UB3 disconnected
+
+MLC[1] : MLC_PS : VBAT Line UDISP disconnected
+
+MLC[1] : MLC_PS : VBAT Line UB1 connected
+
+MLC[1] : MLC_PS : VBAT Line UB2 connected
+
+MLC[1] : MLC_PS : VBAT Line UB3 connected
+
+MLC[1] : MLC_PS : VBAT Line UDISP connected
+
+MLC[1] : MLC_PS : VBAT Line UB1 connected
+
+MLC[1] : MLC_PS : VBAT Line UB2 connected
+
+MLC[1] : MLC_PS : VBAT Line UB3 connected
+
+MLC[1] : MLC_PS : VBAT Line UDISP connected
+
+MLC[1] : MLC_PS : VBAT Line UB1 disconnected
+
+MLC[1] : MLC_PS : VBAT Line UB2 disconnected
+
+MLC[1] : MLC_PS : VBAT Line UB3 disconnected
+
+MLC[1] : MLC_PS : VBAT Line UDISP disconnected
+
+MLC[1] : MLC_PS : VBAT Line UB1 disconnected
+
+MLC[1] : MLC_PS : VBAT Line UB2 disconnected
+
+MLC[1] : MLC_PS : VBAT Line UB3 disconnected
+
+MLC[1] : MLC_PS : VBAT Line UDISP disconnected
+
+MLC[1] : MLC_PS : VBAT Line UB1 connected
+
+MLC[1] : MLC_PS : VBAT Line UB2 connected
+
+MLC[1] : MLC_PS : VBAT Line UB3 connected
+
+MLC[1] : MLC_PS : VBAT Line UDISP connected
+
+MLC[1] : MLC_PS : VBAT Line UB1 connected
+
+MLC[1] : MLC_PS : VBAT Line UB2 connected
+
+MLC[1] : MLC_PS : VBAT Line UB3 connected
+
+MLC[1] : MLC_PS : VBAT Line UDISP connected
+
+MLC[1] : MLC_PS : VBAT Line UB1 disconnected
+
+MLC[1] : MLC_PS : VBAT Line UB2 disconnected
+
+MLC[1] : MLC_PS : VBAT Line UB3 disconnected
+
+MLC[1] : MLC_PS : VBAT Line UDISP disconnected
+
+MLC[1] : MLC_PS : VBAT Line UB1 disconnected
+
+MLC[1] : MLC_PS : VBAT Line UB2 disconnected
+
+MLC[1] : MLC_PS : VBAT Line UB3 disconnected
+
+MLC[1] : MLC_PS : VBAT Line UDISP disconnected
+
+MLC[1] : MLC_PS : Voltage set to 0.000000 volts
+
+MLC[1] : MLC_PS : Voltage set to 12.000000 volts
+
+MLC[1] : MLC_PS : VBAT Line UB1 connected
+
+MLC[1] : MLC_PS : VBAT Line UB2 connected
+
+MLC[1] : MLC_PS : VBAT Line UB3 connected
+
+MLC[1] : MLC_PS : VBAT Line UDISP connected
+
+MLC[1] : MLC_PS : VBAT Line UB1 connected
+
+MLC[1] : MLC_PS : VBAT Line UB2 connected
+
+MLC[1] : MLC_PS : VBAT Line UB3 connected
+
+MLC[1] : MLC_PS : VBAT Line UDISP connected
+
+MLC[1] : MLC_PS : VBAT Line UB1 disconnected
+
+MLC[1] : MLC_PS : VBAT Line UB2 disconnected
+
+MLC[1] : MLC_PS : VBAT Line UB3 disconnected
+
+MLC[1] : MLC_PS : VBAT Line UDISP disconnected
+
+MLC[1] : MLC_PS : VBAT Line UB1 disconnected
+
+MLC[1] : MLC_PS : VBAT Line UB2 disconnected
+
+MLC[1] : MLC_PS : VBAT Line UB3 disconnected
+
+MLC[1] : MLC_PS : VBAT Line UDISP disconnected
+
+MLC[1] : MLC_PS : VBAT Line UB1 connected
+
+MLC[1] : MLC_PS : VBAT Line UB2 connected
+
+MLC[1] : MLC_PS : VBAT Line UB3 connected
+
+MLC[1] : MLC_PS : VBAT Line UDISP connected
+
+MLC[1] : MLC_PS : VBAT Line UB1 connected
+
+MLC[1] : MLC_PS : VBAT Line UB2 connected
+
+MLC[1] : MLC_PS : VBAT Line UB3 connected
+
+MLC[1] : MLC_PS : VBAT Line UDISP connected
+
+MLC[1] : MLC_PS : VBAT Line UB1 disconnected
+
+MLC[1] : MLC_PS : VBAT Line UB2 disconnected
+
+MLC[1] : MLC_PS : VBAT Line UB3 disconnected
+
+MLC[1] : MLC_PS : VBAT Line UDISP disconnected
+
+MLC[1] : MLC_PS : VBAT Line UB1 disconnected
+
+MLC[1] : MLC_PS : VBAT Line UB2 disconnected
+
+MLC[1] : MLC_PS : VBAT Line UB3 disconnected
+
+MLC[1] : MLC_PS : VBAT Line UDISP disconnected
+
+MLC[1] : MLC_PS : VBAT Line UB1 connected
+
+MLC[1] : MLC_PS : VBAT Line UB2 connected
+
+MLC[1] : MLC_PS : VBAT Line UB3 connected
+
+MLC[1] : MLC_PS : VBAT Line UDISP connected
+
+MLC[1] : MLC_PS : VBAT Line UB1 connected
+
+MLC[1] : MLC_PS : VBAT Line UB2 connected
+
+MLC[1] : MLC_PS : VBAT Line UB3 connected
+
+MLC[1] : MLC_PS : VBAT Line UDISP connected
+
+MLC[1] : MLC_PS : VBAT Line UB1 disconnected
+
+MLC[1] : MLC_PS : VBAT Line UB2 disconnected
+
+MLC[1] : MLC_PS : VBAT Line UB3 disconnected
+
+MLC[1] : MLC_PS : VBAT Line UDISP disconnected
+
+MLC[1] : MLC_PS : VBAT Line UB1 disconnected
+
+MLC[1] : MLC_PS : VBAT Line UB2 disconnected
+
+MLC[1] : MLC_PS : VBAT Line UB3 disconnected
+
+MLC[1] : MLC_PS : VBAT Line UDISP disconnected
+
+MLC[1] : MLC_PS : Voltage set to 0.000000 volts
+
+MLC[1] : MLC_PS : Voltage set to 12.000000 volts
+
+MLC[1] : MLC_PS : VBAT Line UB1 connected
+
+MLC[1] : MLC_PS : VBAT Line UB2 connected
+
+MLC[1] : MLC_PS : VBAT Line UB3 connected
+
+MLC[1] : MLC_PS : VBAT Line UDISP connected
+
+MLC[1] : MLC_PS : VBAT Line UB1 connected
+
+MLC[1] : MLC_PS : VBAT Line UB2 connected
+
+MLC[1] : MLC_PS : VBAT Line UB3 connected
+
+MLC[1] : MLC_PS : VBAT Line UDISP connected
+
+MLC[1] : MLC_PS : VBAT Line UB1 disconnected
+
+MLC[1] : MLC_PS : VBAT Line UB2 disconnected
+
+MLC[1] : MLC_PS : VBAT Line UB3 disconnected
+
+MLC[1] : MLC_PS : VBAT Line UDISP disconnected
+
+MLC[1] : MLC_PS : VBAT Line UB1 disconnected
+
+MLC[1] : MLC_PS : VBAT Line UB2 disconnected
+
+MLC[1] : MLC_PS : VBAT Line UB3 disconnected
+
+MLC[1] : MLC_PS : VBAT Line UDISP disconnected
+
+MLC[1] : MLC_PS : VBAT Line UB1 connected
+
+MLC[1] : MLC_PS : VBAT Line UB2 connected
+
+MLC[1] : MLC_PS : VBAT Line UB3 connected
+
+MLC[1] : MLC_PS : VBAT Line UDISP connected
+
+MLC[1] : MLC_PS : VBAT Line UB1 connected
+
+MLC[1] : MLC_PS : VBAT Line UB2 connected
+
+MLC[1] : MLC_PS : VBAT Line UB3 connected
+
+MLC[1] : MLC_PS : VBAT Line UDISP connected
+
+MLC[1] : MLC_PS : VBAT Line UB1 disconnected
+
+MLC[1] : MLC_PS : VBAT Line UB2 disconnected
+
+MLC[1] : MLC_PS : VBAT Line UB3 disconnected
+
+MLC[1] : MLC_PS : VBAT Line UDISP disconnected
+
+MLC[1] : MLC_PS : VBAT Line UB1 disconnected
+
+MLC[1] : MLC_PS : VBAT Line UB2 disconnected
+
+MLC[1] : MLC_PS : VBAT Line UB3 disconnected
+
+MLC[1] : MLC_PS : VBAT Line UDISP disconnected
+
+MLC[1] : MLC_PS : VBAT Line UB1 connected
+
+MLC[1] : MLC_PS : VBAT Line UB2 connected
+
+MLC[1] : MLC_PS : VBAT Line UB3 connected
+
+MLC[1] : MLC_PS : VBAT Line UDISP connected
+
+MLC[1] : MLC_PS : VBAT Line UB1 connected
+
+MLC[1] : MLC_PS : VBAT Line UB2 connected
+
+MLC[1] : MLC_PS : VBAT Line UB3 connected
+
+MLC[1] : MLC_PS : VBAT Line UDISP connected
+
+MLC[1] : MLC_PS : VBAT Line UB1 disconnected
+
+MLC[1] : MLC_PS : VBAT Line UB2 disconnected
+
+MLC[1] : MLC_PS : VBAT Line UB3 disconnected
+
+MLC[1] : MLC_PS : VBAT Line UDISP disconnected
+
+MLC[1] : MLC_PS : VBAT Line UB1 disconnected
+
+MLC[1] : MLC_PS : VBAT Line UB2 disconnected
+
+MLC[1] : MLC_PS : VBAT Line UB3 disconnected
+
+MLC[1] : MLC_PS : VBAT Line UDISP disconnected
+
+MLC[1] : MLC_PS : Voltage set to 0.000000 volts
+
+MLC[1] : MLC_PS : Voltage set to 12.000000 volts
+
+MLC[1] : MLC_PS : VBAT Line UB1 connected
+
+MLC[1] : MLC_PS : VBAT Line UB2 connected
+
+MLC[1] : MLC_PS : VBAT Line UB3 connected
+
+MLC[1] : MLC_PS : VBAT Line UDISP connected
+
+MLC[1] : MLC_PS : VBAT Line UB1 connected
+
+MLC[1] : MLC_PS : VBAT Line UB2 connected
+
+MLC[1] : MLC_PS : VBAT Line UB3 connected
+
+MLC[1] : MLC_PS : VBAT Line UDISP connected
+
+MLC[1] : MLC_PS : VBAT Line UB1 disconnected
+
+MLC[1] : MLC_PS : VBAT Line UB2 disconnected
+
+MLC[1] : MLC_PS : VBAT Line UB3 disconnected
+
+MLC[1] : MLC_PS : VBAT Line UDISP disconnected
+
+MLC[1] : MLC_PS : VBAT Line UB1 disconnected
+
+MLC[1] : MLC_PS : VBAT Line UB2 disconnected
+
+MLC[1] : MLC_PS : VBAT Line UB3 disconnected
+
+MLC[1] : MLC_PS : VBAT Line UDISP disconnected
+
+MLC[1] : MLC_PS : VBAT Line UB1 connected
+
+MLC[1] : MLC_PS : VBAT Line UB2 connected
+
+MLC[1] : MLC_PS : VBAT Line UB3 connected
+
+MLC[1] : MLC_PS : VBAT Line UDISP connected
+
+MLC[1] : MLC_PS : VBAT Line UB1 connected
+
+MLC[1] : MLC_PS : VBAT Line UB2 connected
+
+MLC[1] : MLC_PS : VBAT Line UB3 connected
+
+MLC[1] : MLC_PS : VBAT Line UDISP connected
+
+MLC[1] : MLC_PS : VBAT Line UB1 disconnected
+
+MLC[1] : MLC_PS : VBAT Line UB2 disconnected
+
+MLC[1] : MLC_PS : VBAT Line UB3 disconnected
+
+MLC[1] : MLC_PS : VBAT Line UDISP disconnected
+
+MLC[1] : MLC_PS : VBAT Line UB1 disconnected
+
+MLC[1] : MLC_PS : VBAT Line UB2 disconnected
+
+MLC[1] : MLC_PS : VBAT Line UB3 disconnected
+
+MLC[1] : MLC_PS : VBAT Line UDISP disconnected
+
+MLC[1] : MLC_PS : VBAT Line UB1 connected
+
+MLC[1] : MLC_PS : VBAT Line UB2 connected
+
+MLC[1] : MLC_PS : VBAT Line UB3 connected
+
+MLC[1] : MLC_PS : VBAT Line UDISP connected
+
+MLC[1] : MLC_PS : VBAT Line UB1 connected
+
+MLC[1] : MLC_PS : VBAT Line UB2 connected
+
+MLC[1] : MLC_PS : VBAT Line UB3 connected
+
+MLC[1] : MLC_PS : VBAT Line UDISP connected
+
+MLC[1] : MLC_PS : VBAT Line UB1 disconnected
+
+MLC[1] : MLC_PS : VBAT Line UB2 disconnected
+
+MLC[1] : MLC_PS : VBAT Line UB3 disconnected
+
+MLC[1] : MLC_PS : VBAT Line UDISP disconnected
+
+MLC[1] : MLC_PS : VBAT Line UB1 disconnected
+
+MLC[1] : MLC_PS : VBAT Line UB2 disconnected
+
+MLC[1] : MLC_PS : VBAT Line UB3 disconnected
+
+MLC[1] : MLC_PS : VBAT Line UDISP disconnected
+
+MLC[1] : MLC_PS : Voltage set to 0.000000 volts
+
+MLC[1] : MLC_PS : Voltage set to 12.000000 volts
+
+MLC[1] : MLC_PS : VBAT Line UB1 connected
+
+MLC[1] : MLC_PS : VBAT Line UB2 connected
+
+MLC[1] : MLC_PS : VBAT Line UB3 connected
+
+MLC[1] : MLC_PS : VBAT Line UDISP connected
+
+MLC[1] : MLC_PS : VBAT Line UB1 connected
+
+MLC[1] : MLC_PS : VBAT Line UB2 connected
+
+MLC[1] : MLC_PS : VBAT Line UB3 connected
+
+MLC[1] : MLC_PS : VBAT Line UDISP connected
+
+MLC[1] : MLC_PS : VBAT Line UB1 disconnected
+
+MLC[1] : MLC_PS : VBAT Line UB2 disconnected
+
+MLC[1] : MLC_PS : VBAT Line UB3 disconnected
+
+MLC[1] : MLC_PS : VBAT Line UDISP disconnected
+
+MLC[1] : MLC_PS : VBAT Line UB1 disconnected
+
+MLC[1] : MLC_PS : VBAT Line UB2 disconnected
+
+MLC[1] : MLC_PS : VBAT Line UB3 disconnected
+
+MLC[1] : MLC_PS : VBAT Line UDISP disconnected
+
+MLC[1] : MLC_PS : VBAT Line UB1 connected
+
+MLC[1] : MLC_PS : VBAT Line UB2 connected
+
+MLC[1] : MLC_PS : VBAT Line UB3 connected
+
+MLC[1] : MLC_PS : VBAT Line UDISP connected
+
+MLC[1] : MLC_PS : VBAT Line UB1 connected
+
+MLC[1] : MLC_PS : VBAT Line UB2 connected
+
+MLC[1] : MLC_PS : VBAT Line UB3 connected
+
+MLC[1] : MLC_PS : VBAT Line UDISP connected
+
+MLC[1] : MLC_PS : VBAT Line UB1 disconnected
+
+MLC[1] : MLC_PS : VBAT Line UB2 disconnected
+
+MLC[1] : MLC_PS : VBAT Line UB3 disconnected
+
+MLC[1] : MLC_PS : VBAT Line UDISP disconnected
+
+MLC[1] : MLC_PS : VBAT Line UB1 disconnected
+
+MLC[1] : MLC_PS : VBAT Line UB2 disconnected
+
+MLC[1] : MLC_PS : VBAT Line UB3 disconnected
+
+MLC[1] : MLC_PS : VBAT Line UDISP disconnected
+
+MLC[1] : MLC_PS : VBAT Line UB1 connected
+
+MLC[1] : MLC_PS : VBAT Line UB2 connected
+
+MLC[1] : MLC_PS : VBAT Line UB3 connected
+
+MLC[1] : MLC_PS : VBAT Line UDISP connected
+
+MLC[1] : MLC_PS : VBAT Line UB1 connected
+
+MLC[1] : MLC_PS : VBAT Line UB2 connected
+
+MLC[1] : MLC_PS : VBAT Line UB3 connected
+
+MLC[1] : MLC_PS : VBAT Line UDISP connected
+
+MLC[1] : MLC_PS : VBAT Line UB1 disconnected
+
+MLC[1] : MLC_PS : VBAT Line UB2 disconnected
+
+MLC[1] : MLC_PS : VBAT Line UB3 disconnected
+
+MLC[1] : MLC_PS : VBAT Line UDISP disconnected
+
+MLC[1] : MLC_PS : VBAT Line UB1 disconnected
+
+MLC[1] : MLC_PS : VBAT Line UB2 disconnected
+
+MLC[1] : MLC_PS : VBAT Line UB3 disconnected
+
+MLC[1] : MLC_PS : VBAT Line UDISP disconnected
+
+MLC[1] : MLC_PS : Voltage set to 0.000000 volts
+
+MLC[1] : MLC_PS : Voltage set to 12.000000 volts
+
+MLC[1] : MLC_PS : VBAT Line UB1 connected
+
+MLC[1] : MLC_PS : VBAT Line UB2 connected
+
+MLC[1] : MLC_PS : VBAT Line UB3 connected
+
+MLC[1] : MLC_PS : VBAT Line UDISP connected
+
+MLC[1] : MLC_PS : VBAT Line UB1 connected
+
+MLC[1] : MLC_PS : VBAT Line UB2 connected
+
+MLC[1] : MLC_PS : VBAT Line UB3 connected
+
+MLC[1] : MLC_PS : VBAT Line UDISP connected
+
+MLC[1] : MLC_PS : VBAT Line UB1 disconnected
+
+MLC[1] : MLC_PS : VBAT Line UB2 disconnected
+
+MLC[1] : MLC_PS : VBAT Line UB3 disconnected
+
+MLC[1] : MLC_PS : VBAT Line UDISP disconnected
+
+MLC[1] : MLC_PS : VBAT Line UB1 disconnected
+
+MLC[1] : MLC_PS : VBAT Line UB2 disconnected
+
+MLC[1] : MLC_PS : VBAT Line UB3 disconnected
+
+MLC[1] : MLC_PS : VBAT Line UDISP disconnected
+
+MLC[1] : MLC_PS : VBAT Line UB1 connected
+
+MLC[1] : MLC_PS : VBAT Line UB2 connected
+
+MLC[1] : MLC_PS : VBAT Line UB3 connected
+
+MLC[1] : MLC_PS : VBAT Line UDISP connected
+
+MLC[1] : MLC_PS : VBAT Line UB1 connected
+
+MLC[1] : MLC_PS : VBAT Line UB2 connected
+
+MLC[1] : MLC_PS : VBAT Line UB3 connected
+
+MLC[1] : MLC_PS : VBAT Line UDISP connected
+
+MLC[1] : MLC_PS : VBAT Line UB1 disconnected
+
+MLC[1] : MLC_PS : VBAT Line UB2 disconnected
+
+MLC[1] : MLC_PS : VBAT Line UB3 disconnected
+
+MLC[1] : MLC_PS : VBAT Line UDISP disconnected
+
+MLC[1] : MLC_PS : VBAT Line UB1 disconnected
+
+MLC[1] : MLC_PS : VBAT Line UB2 disconnected
+
+MLC[1] : MLC_PS : VBAT Line UB3 disconnected
+
+MLC[1] : MLC_PS : VBAT Line UDISP disconnected
+
+MLC[1] : MLC_PS : VBAT Line UB1 connected
+
+MLC[1] : MLC_PS : VBAT Line UB2 connected
+
+MLC[1] : MLC_PS : VBAT Line UB3 connected
+
+MLC[1] : MLC_PS : VBAT Line UDISP connected
+
+MLC[1] : MLC_PS : VBAT Line UB1 connected
+
+MLC[1] : MLC_PS : VBAT Line UB2 connected
+
+MLC[1] : MLC_PS : VBAT Line UB3 connected
+
+MLC[1] : MLC_PS : VBAT Line UDISP connected
+
+MLC[1] : MLC_PS : VBAT Line UB1 disconnected
+
+MLC[1] : MLC_PS : VBAT Line UB2 disconnected
+
+MLC[1] : MLC_PS : VBAT Line UB3 disconnected
+
+MLC[1] : MLC_PS : VBAT Line UDISP disconnected
+
+MLC[1] : MLC_PS : VBAT Line UB1 disconnected
+
+MLC[1] : MLC_PS : VBAT Line UB2 disconnected
+
+MLC[1] : MLC_PS : VBAT Line UB3 disconnected
+
+MLC[1] : MLC_PS : VBAT Line UDISP disconnected
+
+MLC[1] : MLC_PS : Voltage set to 0.000000 volts
+
+MLC[1] : MLC_PS : Voltage set to 12.000000 volts
+
+MLC[1] : MLC_PS : VBAT Line UB1 connected
+
+MLC[1] : MLC_PS : VBAT Line UB2 connected
+
+MLC[1] : MLC_PS : VBAT Line UB3 connected
+
+MLC[1] : MLC_PS : VBAT Line UDISP connected
+
+MLC[1] : MLC_PS : VBAT Line UB1 connected
+
+MLC[1] : MLC_PS : VBAT Line UB2 connected
+
+MLC[1] : MLC_PS : VBAT Line UB3 connected
+
+MLC[1] : MLC_PS : VBAT Line UDISP connected
+
+MLC[1] : MLC_PS : VBAT Line UB1 disconnected
+
+MLC[1] : MLC_PS : VBAT Line UB2 disconnected
+
+MLC[1] : MLC_PS : VBAT Line UB3 disconnected
+
+MLC[1] : MLC_PS : VBAT Line UDISP disconnected
+
+MLC[1] : MLC_PS : VBAT Line UB1 disconnected
+
+MLC[1] : MLC_PS : VBAT Line UB2 disconnected
+
+MLC[1] : MLC_PS : VBAT Line UB3 disconnected
+
+MLC[1] : MLC_PS : VBAT Line UDISP disconnected
+
+MLC[1] : MLC_PS : VBAT Line UB1 connected
+
+MLC[1] : MLC_PS : VBAT Line UB2 connected
+
+MLC[1] : MLC_PS : VBAT Line UB3 connected
+
+MLC[1] : MLC_PS : VBAT Line UDISP connected
+
+MLC[1] : MLC_PS : VBAT Line UB1 connected
+
+MLC[1] : MLC_PS : VBAT Line UB2 connected
+
+MLC[1] : MLC_PS : VBAT Line UB3 connected
+
+MLC[1] : MLC_PS : VBAT Line UDISP connected
+
+MLC[1] : MLC_PS : VBAT Line UB1 disconnected
+
+MLC[1] : MLC_PS : VBAT Line UB2 disconnected
+
+MLC[1] : MLC_PS : VBAT Line UB3 disconnected
+
+MLC[1] : MLC_PS : VBAT Line UDISP disconnected
+
+MLC[1] : MLC_PS : VBAT Line UB1 disconnected
+
+MLC[1] : MLC_PS : VBAT Line UB2 disconnected
+
+MLC[1] : MLC_PS : VBAT Line UB3 disconnected
+
+MLC[1] : MLC_PS : VBAT Line UDISP disconnected
+
+MLC[1] : MLC_PS : VBAT Line UB1 connected
+
+MLC[1] : MLC_PS : VBAT Line UB2 connected
+
+MLC[1] : MLC_PS : VBAT Line UB3 connected
+
+MLC[1] : MLC_PS : VBAT Line UDISP connected
+
+MLC[1] : MLC_PS : VBAT Line UB1 connected
+
+MLC[1] : MLC_PS : VBAT Line UB2 connected
+
+MLC[1] : MLC_PS : VBAT Line UB3 connected
+
+MLC[1] : MLC_PS : VBAT Line UDISP connected
+
+MLC[1] : MLC_PS : VBAT Line UB1 disconnected
+
+MLC[1] : MLC_PS : VBAT Line UB2 disconnected
+
+MLC[1] : MLC_PS : VBAT Line UB3 disconnected
+
+MLC[1] : MLC_PS : VBAT Line UDISP disconnected
+
+MLC[1] : MLC_PS : VBAT Line UB1 disconnected
+
+MLC[1] : MLC_PS : VBAT Line UB2 disconnected
+
+MLC[1] : MLC_PS : VBAT Line UB3 disconnected
+
+MLC[1] : MLC_PS : VBAT Line UDISP disconnected
+
+MLC[1] : MLC_PS : Voltage set to 0.000000 volts
+
+MLC[1] : MLC_PS : Voltage set to 12.000000 volts
+
+MLC[1] : MLC_PS : VBAT Line UB1 connected
+
+MLC[1] : MLC_PS : VBAT Line UB2 connected
+
+MLC[1] : MLC_PS : VBAT Line UB3 connected
+
+MLC[1] : MLC_PS : VBAT Line UDISP connected
+
+MLC[1] : MLC_PS : VBAT Line UB1 connected
+
+MLC[1] : MLC_PS : VBAT Line UB2 connected
+
+MLC[1] : MLC_PS : VBAT Line UB3 connected
+
+MLC[1] : MLC_PS : VBAT Line UDISP connected
+
+MLC[1] : MLC_PS : VBAT Line UB1 disconnected
+
+MLC[1] : MLC_PS : VBAT Line UB2 disconnected
+
+MLC[1] : MLC_PS : VBAT Line UB3 disconnected
+
+MLC[1] : MLC_PS : VBAT Line UDISP disconnected
+
+MLC[1] : MLC_PS : VBAT Line UB1 disconnected
+
+MLC[1] : MLC_PS : VBAT Line UB2 disconnected
+
+MLC[1] : MLC_PS : VBAT Line UB3 disconnected
+
+MLC[1] : MLC_PS : VBAT Line UDISP disconnected
+
+MLC[1] : MLC_PS : VBAT Line UB1 connected
+
+MLC[1] : MLC_PS : VBAT Line UB2 connected
+
+MLC[1] : MLC_PS : VBAT Line UB3 connected
+
+MLC[1] : MLC_PS : VBAT Line UDISP connected
+
+MLC[1] : MLC_PS : VBAT Line UB1 connected
+
+MLC[1] : MLC_PS : VBAT Line UB2 connected
+
+MLC[1] : MLC_PS : VBAT Line UB3 connected
+
+MLC[1] : MLC_PS : VBAT Line UDISP connected
+
+MLC[1] : MLC_PS : VBAT Line UB1 disconnected
+
+MLC[1] : MLC_PS : VBAT Line UB2 disconnected
+
+MLC[1] : MLC_PS : VBAT Line UB3 disconnected
+
+MLC[1] : MLC_PS : VBAT Line UDISP disconnected
+
+MLC[1] : MLC_PS : VBAT Line UB1 disconnected
+
+MLC[1] : MLC_PS : VBAT Line UB2 disconnected
+
+MLC[1] : MLC_PS : VBAT Line UB3 disconnected
+
+MLC[1] : MLC_PS : VBAT Line UDISP disconnected
+
+MLC[1] : MLC_PS : VBAT Line UB1 connected
+
+MLC[1] : MLC_PS : VBAT Line UB2 connected
+
+MLC[1] : MLC_PS : VBAT Line UB3 connected
+
+MLC[1] : MLC_PS : VBAT Line UDISP connected
+
+MLC[1] : MLC_PS : VBAT Line UB1 connected
+
+MLC[1] : MLC_PS : VBAT Line UB2 connected
+
+MLC[1] : MLC_PS : VBAT Line UB3 connected
+
+MLC[1] : MLC_PS : VBAT Line UDISP connected
+
+MLC[1] : MLC_PS : VBAT Line UB1 disconnected
+
+MLC[1] : MLC_PS : VBAT Line UB2 disconnected
+
+MLC[1] : MLC_PS : VBAT Line UB3 disconnected
+
+MLC[1] : MLC_PS : VBAT Line UDISP disconnected
+
+MLC[1] : MLC_PS : VBAT Line UB1 disconnected
+
+MLC[1] : MLC_PS : VBAT Line UB2 disconnected
+
+MLC[1] : MLC_PS : VBAT Line UB3 disconnected
+
+MLC[1] : MLC_PS : VBAT Line UDISP disconnected
+
+MLC[1] : MLC_PS : Voltage set to 0.000000 volts
+
+MLC[1] : MLC_PS : Voltage set to 12.000000 volts
+
+MLC[1] : MLC_PS : VBAT Line UB1 connected
+
+MLC[1] : MLC_PS : VBAT Line UB2 connected
+
+MLC[1] : MLC_PS : VBAT Line UB3 connected
+
+MLC[1] : MLC_PS : VBAT Line UDISP connected
+
+MLC[1] : MLC_PS : VBAT Line UB1 connected
+
+MLC[1] : MLC_PS : VBAT Line UB2 connected
+
+MLC[1] : MLC_PS : VBAT Line UB3 connected
+
+MLC[1] : MLC_PS : VBAT Line UDISP connected
+
+MLC[1] : MLC_PS : VBAT Line UB1 disconnected
+
+MLC[1] : MLC_PS : VBAT Line UB2 disconnected
+
+MLC[1] : MLC_PS : VBAT Line UB3 disconnected
+
+MLC[1] : MLC_PS : VBAT Line UDISP disconnected
+
+MLC[1] : MLC_PS : VBAT Line UB1 disconnected
+
+MLC[1] : MLC_PS : VBAT Line UB2 disconnected
+
+MLC[1] : MLC_PS : VBAT Line UB3 disconnected
+
+MLC[1] : MLC_PS : VBAT Line UDISP disconnected
+
+MLC[1] : MLC_PS : VBAT Line UB1 connected
+
+MLC[1] : MLC_PS : VBAT Line UB2 connected
+
+MLC[1] : MLC_PS : VBAT Line UB3 connected
+
+MLC[1] : MLC_PS : VBAT Line UDISP connected
+
+MLC[1] : MLC_PS : VBAT Line UB1 connected
+
+MLC[1] : MLC_PS : VBAT Line UB2 connected
+
+MLC[1] : MLC_PS : VBAT Line UB3 connected
+
+MLC[1] : MLC_PS : VBAT Line UDISP connected
+
+MLC[1] : MLC_PS : VBAT Line UB1 disconnected
+
+MLC[1] : MLC_PS : VBAT Line UB2 disconnected
+
+MLC[1] : MLC_PS : VBAT Line UB3 disconnected
+
+MLC[1] : MLC_PS : VBAT Line UDISP disconnected
+
+MLC[1] : MLC_PS : VBAT Line UB1 disconnected
+
+MLC[1] : MLC_PS : VBAT Line UB2 disconnected
+
+MLC[1] : MLC_PS : VBAT Line UB3 disconnected
+
+MLC[1] : MLC_PS : VBAT Line UDISP disconnected
+
+MLC[1] : MLC_PS : VBAT Line UB1 connected
+
+MLC[1] : MLC_PS : VBAT Line UB2 connected
+
+MLC[1] : MLC_PS : VBAT Line UB3 connected
+
+MLC[1] : MLC_PS : VBAT Line UDISP connected
+
+MLC[1] : MLC_PS : VBAT Line UB1 connected
+
+MLC[1] : MLC_PS : VBAT Line UB2 connected
+
+MLC[1] : MLC_PS : VBAT Line UB3 connected
+
+MLC[1] : MLC_PS : VBAT Line UDISP connected
+
+MLC[1] : MLC_PS : VBAT Line UB1 disconnected
+
+MLC[1] : MLC_PS : VBAT Line UB2 disconnected
+
+MLC[1] : MLC_PS : VBAT Line UB3 disconnected
+
+MLC[1] : MLC_PS : VBAT Line UDISP disconnected
+
+MLC[1] : MLC_PS : VBAT Line UB1 disconnected
+
+MLC[1] : MLC_PS : VBAT Line UB2 disconnected
+
+MLC[1] : MLC_PS : VBAT Line UB3 disconnected
+
+MLC[1] : MLC_PS : VBAT Line UDISP disconnected
+
+MLC[1] : MLC_PS : Voltage set to 0.000000 volts
+
+MLC[1] : MLC_PS : Voltage set to 12.000000 volts
+
+MLC[1] : MLC_PS : VBAT Line UB1 connected
+
+MLC[1] : MLC_PS : VBAT Line UB2 connected
+
+MLC[1] : MLC_PS : VBAT Line UB3 connected
+
+MLC[1] : MLC_PS : VBAT Line UDISP connected
+
+MLC[1] : MLC_PS : VBAT Line UB1 connected
+
+MLC[1] : MLC_PS : VBAT Line UB2 connected
+
+MLC[1] : MLC_PS : VBAT Line UB3 connected
+
+MLC[1] : MLC_PS : VBAT Line UDISP connected
+
+MLC[1] : MLC_PS : VBAT Line UB1 disconnected
+
+MLC[1] : MLC_PS : VBAT Line UB2 disconnected
+
+MLC[1] : MLC_PS : VBAT Line UB3 disconnected
+
+MLC[1] : MLC_PS : VBAT Line UDISP disconnected
+
+MLC[1] : MLC_PS : VBAT Line UB1 disconnected
+
+MLC[1] : MLC_PS : VBAT Line UB2 disconnected
+
+MLC[1] : MLC_PS : VBAT Line UB3 disconnected
+
+MLC[1] : MLC_PS : VBAT Line UDISP disconnected
+
+MLC[1] : MLC_PS : VBAT Line UB1 connected
+
+MLC[1] : MLC_PS : VBAT Line UB2 connected
+
+MLC[1] : MLC_PS : VBAT Line UB3 connected
+
+MLC[1] : MLC_PS : VBAT Line UDISP connected
+
+MLC[1] : MLC_PS : VBAT Line UB1 connected
+
+MLC[1] : MLC_PS : VBAT Line UB2 connected
+
+MLC[1] : MLC_PS : VBAT Line UB3 connected
+
+MLC[1] : MLC_PS : VBAT Line UDISP connected
+
+MLC[1] : MLC_PS : VBAT Line UB1 disconnected
+
+MLC[1] : MLC_PS : VBAT Line UB2 disconnected
+
+MLC[1] : MLC_PS : VBAT Line UB3 disconnected
+
+MLC[1] : MLC_PS : VBAT Line UDISP disconnected
+
+MLC[1] : MLC_PS : VBAT Line UB1 disconnected
+
+MLC[1] : MLC_PS : VBAT Line UB2 disconnected
+
+MLC[1] : MLC_PS : VBAT Line UB3 disconnected
+
+MLC[1] : MLC_PS : VBAT Line UDISP disconnected
+
+MLC[1] : MLC_PS : VBAT Line UB1 connected
+
+MLC[1] : MLC_PS : VBAT Line UB2 connected
+
+MLC[1] : MLC_PS : VBAT Line UB3 connected
+
+MLC[1] : MLC_PS : VBAT Line UDISP connected
+
+MLC[1] : MLC_PS : VBAT Line UB1 connected
+
+MLC[1] : MLC_PS : VBAT Line UB2 connected
+
+MLC[1] : MLC_PS : VBAT Line UB3 connected
+
+MLC[1] : MLC_PS : VBAT Line UDISP connected
+
+MLC[1] : MLC_PS : VBAT Line UB1 disconnected
+
+MLC[1] : MLC_PS : VBAT Line UB2 disconnected
+
+MLC[1] : MLC_PS : VBAT Line UB3 disconnected
+
+MLC[1] : MLC_PS : VBAT Line UDISP disconnected
+
+MLC[1] : MLC_PS : VBAT Line UB1 disconnected
+
+MLC[1] : MLC_PS : VBAT Line UB2 disconnected
+
+MLC[1] : MLC_PS : VBAT Line UB3 disconnected
+
+MLC[1] : MLC_PS : VBAT Line UDISP disconnected
+
+MLC[1] : MLC_PS : Voltage set to 0.000000 volts
+
+MLC[1] : MLC_PS : Voltage set to 12.000000 volts
+
+MLC[1] : MLC_PS : VBAT Line UB1 connected
+
+MLC[1] : MLC_PS : VBAT Line UB2 connected
+
+MLC[1] : MLC_PS : VBAT Line UB3 connected
+
+MLC[1] : MLC_PS : VBAT Line UDISP connected
+
+MLC[1] : MLC_PS : VBAT Line UB1 connected
+
+MLC[1] : MLC_PS : VBAT Line UB2 connected
+
+MLC[1] : MLC_PS : VBAT Line UB3 connected
+
+MLC[1] : MLC_PS : VBAT Line UDISP connected
+
+MLC[1] : MLC_PS : VBAT Line UB1 disconnected
+
+MLC[1] : MLC_PS : VBAT Line UB2 disconnected
+
+MLC[1] : MLC_PS : VBAT Line UB3 disconnected
+
+MLC[1] : MLC_PS : VBAT Line UDISP disconnected
+
+MLC[1] : MLC_PS : VBAT Line UB1 disconnected
+
+MLC[1] : MLC_PS : VBAT Line UB2 disconnected
+
+MLC[1] : MLC_PS : VBAT Line UB3 disconnected
+
+MLC[1] : MLC_PS : VBAT Line UDISP disconnected
+
+MLC[1] : MLC_PS : VBAT Line UB1 connected
+
+MLC[1] : MLC_PS : VBAT Line UB2 connected
+
+MLC[1] : MLC_PS : VBAT Line UB3 connected
+
+MLC[1] : MLC_PS : VBAT Line UDISP connected
+
+MLC[1] : MLC_PS : VBAT Line UB1 connected
+
+MLC[1] : MLC_PS : VBAT Line UB2 connected
+
+MLC[1] : MLC_PS : VBAT Line UB3 connected
+
+MLC[1] : MLC_PS : VBAT Line UDISP connected
+
+MLC[1] : MLC_PS : VBAT Line UB1 disconnected
+
+MLC[1] : MLC_PS : VBAT Line UB2 disconnected
+
+MLC[1] : MLC_PS : VBAT Line UB3 disconnected
+
+MLC[1] : MLC_PS : VBAT Line UDISP disconnected
+
+MLC[1] : MLC_PS : VBAT Line UB1 disconnected
+
+MLC[1] : MLC_PS : VBAT Line UB2 disconnected
+
+MLC[1] : MLC_PS : VBAT Line UB3 disconnected
+
+MLC[1] : MLC_PS : VBAT Line UDISP disconnected
+
+MLC[1] : MLC_PS : VBAT Line UB1 connected
+
+MLC[1] : MLC_PS : VBAT Line UB2 connected
+
+MLC[1] : MLC_PS : VBAT Line UB3 connected
+
+MLC[1] : MLC_PS : VBAT Line UDISP connected
+
+MLC[1] : MLC_PS : VBAT Line UB1 connected
+
+MLC[1] : MLC_PS : VBAT Line UB2 connected
+
+MLC[1] : MLC_PS : VBAT Line UB3 connected
+
+MLC[1] : MLC_PS : VBAT Line UDISP connected
+
+MLC[1] : MLC_PS : VBAT Line UB1 disconnected
+
+MLC[1] : MLC_PS : VBAT Line UB2 disconnected
+
+MLC[1] : MLC_PS : VBAT Line UB3 disconnected
+
+MLC[1] : MLC_PS : VBAT Line UDISP disconnected
+
+MLC[1] : MLC_PS : VBAT Line UB1 disconnected
+
+MLC[1] : MLC_PS : VBAT Line UB2 disconnected
+
+MLC[1] : MLC_PS : VBAT Line UB3 disconnected
+
+MLC[1] : MLC_PS : VBAT Line UDISP disconnected
+
+MLC[1] : MLC_PS : Voltage set to 0.000000 volts
+
+MLC[1] : MLC_PS : Voltage set to 12.000000 volts
+
+MLC[1] : MLC_PS : VBAT Line UB1 connected
+
+MLC[1] : MLC_PS : VBAT Line UB2 connected
+
+MLC[1] : MLC_PS : VBAT Line UB3 connected
+
+MLC[1] : MLC_PS : VBAT Line UDISP connected
+
+MLC[1] : MLC_PS : VBAT Line UB1 connected
+
+MLC[1] : MLC_PS : VBAT Line UB2 connected
+
+MLC[1] : MLC_PS : VBAT Line UB3 connected
+
+MLC[1] : MLC_PS : VBAT Line UDISP connected
+
+MLC[1] : MLC_PS : VBAT Line UB1 disconnected
+
+MLC[1] : MLC_PS : VBAT Line UB2 disconnected
+
+MLC[1] : MLC_PS : VBAT Line UB3 disconnected
+
+MLC[1] : MLC_PS : VBAT Line UDISP disconnected
+
+MLC[1] : MLC_PS : VBAT Line UB1 disconnected
+
+MLC[1] : MLC_PS : VBAT Line UB2 disconnected
+
+MLC[1] : MLC_PS : VBAT Line UB3 disconnected
+
+MLC[1] : MLC_PS : VBAT Line UDISP disconnected
+
+MLC[1] : MLC_PS : VBAT Line UB1 connected
+
+MLC[1] : MLC_PS : VBAT Line UB2 connected
+
+MLC[1] : MLC_PS : VBAT Line UB3 connected
+
+MLC[1] : MLC_PS : VBAT Line UDISP connected
+
+MLC[1] : MLC_PS : VBAT Line UB1 connected
+
+MLC[1] : MLC_PS : VBAT Line UB2 connected
+
+MLC[1] : MLC_PS : VBAT Line UB3 connected
+
+MLC[1] : MLC_PS : VBAT Line UDISP connected
+
+MLC[1] : MLC_PS : VBAT Line UB1 disconnected
+
+MLC[1] : MLC_PS : VBAT Line UB2 disconnected
+
+MLC[1] : MLC_PS : VBAT Line UB3 disconnected
+
+MLC[1] : MLC_PS : VBAT Line UDISP disconnected
+
+MLC[1] : MLC_PS : VBAT Line UB1 disconnected
+
+MLC[1] : MLC_PS : VBAT Line UB2 disconnected
+
+MLC[1] : MLC_PS : VBAT Line UB3 disconnected
+
+MLC[1] : MLC_PS : VBAT Line UDISP disconnected
+
+MLC[1] : MLC_PS : VBAT Line UB1 connected
+
+MLC[1] : MLC_PS : VBAT Line UB2 connected
+
+MLC[1] : MLC_PS : VBAT Line UB3 connected
+
+MLC[1] : MLC_PS : VBAT Line UDISP connected
+
+MLC[1] : MLC_PS : VBAT Line UB1 connected
+
+MLC[1] : MLC_PS : VBAT Line UB2 connected
+
+MLC[1] : MLC_PS : VBAT Line UB3 connected
+
+MLC[1] : MLC_PS : VBAT Line UDISP connected
+
+MLC[1] : MLC_PS : VBAT Line UB1 disconnected
+
+MLC[1] : MLC_PS : VBAT Line UB2 disconnected
+
+MLC[1] : MLC_PS : VBAT Line UB3 disconnected
+
+MLC[1] : MLC_PS : VBAT Line UDISP disconnected
+
+MLC[1] : MLC_PS : VBAT Line UB1 disconnected
+
+MLC[1] : MLC_PS : VBAT Line UB2 disconnected
+
+MLC[1] : MLC_PS : VBAT Line UB3 disconnected
+
+MLC[1] : MLC_PS : VBAT Line UDISP disconnected
+
+MLC[1] : MLC_PS : Voltage set to 0.000000 volts
+
+MLC[1] : MLC_PS : Voltage set to 12.000000 volts
+
+MLC[1] : MLC_PS : VBAT Line UB1 connected
+
+MLC[1] : MLC_PS : VBAT Line UB2 connected
+
+MLC[1] : MLC_PS : VBAT Line UB3 connected
+
+MLC[1] : MLC_PS : VBAT Line UDISP connected
+
+MLC[1] : MLC_PS : VBAT Line UB1 connected
+
+MLC[1] : MLC_PS : VBAT Line UB2 connected
+
+MLC[1] : MLC_PS : VBAT Line UB3 connected
+
+MLC[1] : MLC_PS : VBAT Line UDISP connected
+
+MLC[1] : MLC_PS : VBAT Line UB1 disconnected
+
+MLC[1] : MLC_PS : VBAT Line UB2 disconnected
+
+MLC[1] : MLC_PS : VBAT Line UB3 disconnected
+
+MLC[1] : MLC_PS : VBAT Line UDISP disconnected
+
+MLC[1] : MLC_PS : VBAT Line UB1 disconnected
+
+MLC[1] : MLC_PS : VBAT Line UB2 disconnected
+
+MLC[1] : MLC_PS : VBAT Line UB3 disconnected
+
+MLC[1] : MLC_PS : VBAT Line UDISP disconnected
+
+MLC[1] : MLC_PS : VBAT Line UB1 connected
+
+MLC[1] : MLC_PS : VBAT Line UB2 connected
+
+MLC[1] : MLC_PS : VBAT Line UB3 connected
+
+MLC[1] : MLC_PS : VBAT Line UDISP connected
+
+MLC[1] : MLC_PS : VBAT Line UB1 connected
+
+MLC[1] : MLC_PS : VBAT Line UB2 connected
+
+MLC[1] : MLC_PS : VBAT Line UB3 connected
+
+MLC[1] : MLC_PS : VBAT Line UDISP connected
+
+MLC[1] : MLC_PS : VBAT Line UB1 disconnected
+
+MLC[1] : MLC_PS : VBAT Line UB2 disconnected
+
+MLC[1] : MLC_PS : VBAT Line UB3 disconnected
+
+MLC[1] : MLC_PS : VBAT Line UDISP disconnected
+
+MLC[1] : MLC_PS : VBAT Line UB1 disconnected
+
+MLC[1] : MLC_PS : VBAT Line UB2 disconnected
+
+MLC[1] : MLC_PS : VBAT Line UB3 disconnected
+
+MLC[1] : MLC_PS : VBAT Line UDISP disconnected
+
+MLC[1] : MLC_PS : VBAT Line UB1 connected
+
+MLC[1] : MLC_PS : VBAT Line UB2 connected
+
+MLC[1] : MLC_PS : VBAT Line UB3 connected
+
+MLC[1] : MLC_PS : VBAT Line UDISP connected
+
+MLC[1] : MLC_PS : VBAT Line UB1 connected
+
+MLC[1] : MLC_PS : VBAT Line UB2 connected
+
+MLC[1] : MLC_PS : VBAT Line UB3 connected
+
+MLC[1] : MLC_PS : VBAT Line UDISP connected
+
+MLC[1] : MLC_PS : VBAT Line UB1 disconnected
+
+MLC[1] : MLC_PS : VBAT Line UB2 disconnected
+
+MLC[1] : MLC_PS : VBAT Line UB3 disconnected
+
+MLC[1] : MLC_PS : VBAT Line UDISP disconnected
+
+MLC[1] : MLC_PS : VBAT Line UB1 disconnected
+
+MLC[1] : MLC_PS : VBAT Line UB2 disconnected
+
+MLC[1] : MLC_PS : VBAT Line UB3 disconnected
+
+MLC[1] : MLC_PS : VBAT Line UDISP disconnected
+
+MLC Hardware Closed. Values cleared.
